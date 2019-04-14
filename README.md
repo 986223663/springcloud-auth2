@@ -1,2 +1,2 @@
-# Spring Boot 教学案例
+# auth2 案例
 

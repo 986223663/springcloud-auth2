@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>spring-security-oauth2-server</artifactId>
-    <url>http://www.funtl.com</url>
 
     <licenses>
         <license>

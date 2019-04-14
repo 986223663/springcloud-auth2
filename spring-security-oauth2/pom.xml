@@ -11,7 +11,6 @@
 
     <artifactId>spring-security-oauth2</artifactId>
     <packaging>pom</packaging>
-    <url>http://www.funtl.com</url>
 
     <modules>
         <module>spring-security-oauth2-server</module>
@@ -24,13 +23,5 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
-
-    <developers>
-        <developer>
-            <id>liwemin</id>
-            <name>Lusifer Lee</name>
-            <email>lee.lusifer@gmail.com</email>
-        </developer>
-    </developers>
 
 </project>
